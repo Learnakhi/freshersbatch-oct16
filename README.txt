@@ -12,3 +12,4 @@ css is cascading style sheets
 html is a tag oriented language
 >>>>>>> css-assignments
 java script is a scripting language
+Java script is a programming language
