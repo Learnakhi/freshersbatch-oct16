@@ -18,3 +18,4 @@ Java script is a programming language
 java is a scripting language
 java script is easy to learn
 >>>>>>> js-assignments
+jsc
